@@ -1,0 +1,85 @@
+## 🔹 Overview
+This project is a *Power BI dashboard* that analyzes *pizza sales data* using *SQL and Power BI. It provides insights into **revenue, top-selling pizzas, worst-selling pizzas, and order trends*.
+
+## 📌 Key Features
+✅ *Total Revenue & Orders*  
+✅ *Top 5 & Bottom 5 Pizzas by Revenue, Quantity, and Orders*  
+✅ *Best & Worst Selling Days & Times*  
+✅ *Data-driven insights for better decision-making*  
+
+## 🛠️ Tools Used
+- *SQL* (Data extraction & transformation)  
+- *Power BI* (Dashboard creation & visualization)  
+
+## 📂 Project Files
+- PIZZA SALES REPORT.pbix → Power BI file with interactive visualizations.  
+- Dataset.csv (If applicable) → Raw data used for analysis.  
+
+## 🔗 Repository Link
+[GitHub Repository](YOUR_GITHUB_LINK_HERE)
+
+## 📸 Dashboard Screenshot
+![Dashboard Preview](## 🔹 Overview
+This project is a *Power BI dashboard* that analyzes *pizza sales data* using *SQL and Power BI. It provides insights into **revenue, top-selling pizzas, worst-selling pizzas, and order trends*.
+
+## 📌 Key Features
+✅ *Total Revenue & Orders*  
+✅ *Top 5 & Bottom 5 Pizzas by Revenue, Quantity, and Orders*  
+✅ *Best & Worst Selling Days & Times*  
+✅ *Data-driven insights for better decision-making*  
+
+## 🛠️ Tools Used
+- *SQL* (Data extraction & transformation)  
+- *Power BI* (Dashboard creation & visualization)  
+
+## 📂 Project Files
+- PIZZA SALES REPORT.pbix → Power BI file with interactive visualizations.  
+- Dataset.csv (If applicable) → Raw data used for analysis.  
+
+## 🔗 Repository Link
+[GitHub Repository](YOUR_GITHUB_LINK_HERE)
+
+## 📸 Dashboard Screenshot
+![Dashboard Preview](UPLOAD_A_SCREENSHOT_LINK_HERE)
+
+## 🚀 How to Use
+1. Download the .pbix file.  
+2. Open it in *Power BI Desktop*.  
+3. Explore the insights!  
+
+---
+
+### *Next Steps*
+- Planning to add *DAX calculations for deeper insights*  
+- Exploring *predictive analysis using Python in Power BI*  
+
+Would love *your feedback & suggestions!* 🚀  
+
+---
+
+### *Steps to Save Your README.md*  
+1. Copy this content and *paste it into the README.md file*.  
+2. Click *“Commit changes”*.  
+
+Let me know if you need any modifications!)
+
+## 🚀 How to Use
+1. Download the .pbix file.  
+2. Open it in *Power BI Desktop*.  
+3. Explore the insights!  
+
+---
+
+### *Next Steps*
+- Planning to add *DAX calculations for deeper insights*  
+- Exploring *predictive analysis using Python in Power BI*  
+
+Would love *your feedback & suggestions!* 🚀  
+
+---
+
+### *Steps to Save Your README.md*  
+1. Copy this content and *paste it into the README.md file*.  
+2. Click *“Commit changes”*.  
+
+Let me know if you need any modifications!
